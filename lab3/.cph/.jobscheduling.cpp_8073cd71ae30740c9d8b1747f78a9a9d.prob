@@ -1,0 +1,1 @@
+{"name":"Local: jobscheduling","url":"/workspaces/Daa_codes/lab3/jobscheduling.cpp","tests":[{"id":1703155437743,"input":"5\n500 \n8\n600 \n4\n264 \n3\n89 \n3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/Daa_codes/lab3/jobscheduling.cpp","group":"local","local":true}
